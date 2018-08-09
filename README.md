@@ -154,8 +154,11 @@ submitting an issue to our [Waffle Dashboard](https://waffle.io/udacity/mwnd-iss
 
 ## Lighthouse ratings
 Performance: >90
+
 Progressive Web App: >90
+
 Accessibility: >90
+
 Best Practices: >90
 
 ### warning!
@@ -164,6 +167,7 @@ To test it. Be careful on the caches etc. Clear everything first. Test it ( relo
 ## Steps to run correctly.
 
 1st Run node server ( check for the sails ).
+
 2nd Run the http-server -p 8000 ( if you want just run gulp ).
 
 cert.pem and key.pem are for https.
