@@ -1,0 +1,30 @@
+{
+  "short_name": "Restaurants",
+  "name": "Restaurants Application",
+  "theme_color": "#3397DB",
+  "background_color":"#3397DB",
+  "icons": [
+    {
+      "src": "spoon.webp",
+      "type": "image/webp",
+      "sizes": "32x32"
+    },
+    {
+      "src": "spoon64.webp",
+      "type": "image/webp",
+      "sizes": "64x64"
+    },
+    {
+      "src": "spoon128.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "spoon128.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "display":"standalone",
+  "start_url": "/"
+}
